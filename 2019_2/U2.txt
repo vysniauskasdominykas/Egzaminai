@@ -1,0 +1,21 @@
+1
+Petras A. Petraitis 213 15 20 00
+1
+213 15 50 10 4 0 5 3
+
+
+7
+Aetras A. Petraitis 213 15 20 00
+Betras A. Petraitis 214 15 20 00
+Jurgis Jurgutis     221 16 12 12
+Rima Joana          115 15 15 59
+Zigmas Nosis        256 16 23 9
+Roma Liepa          111 15 15 15
+Rytis Uosis Ainis   255 16 23 9
+6
+256 16 43 15 5 5 5 5
+213 15 50 10 4 0 5 3
+214 15 50 10 4 0 5 3
+111 16 5 35 5 4
+255 16 55 59 5 4 3 1
+115 16 42 22 2 5

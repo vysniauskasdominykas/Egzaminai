@@ -1,0 +1,6 @@
+Dalyviai
+aaaaaa              20
+bbbbbbbbbb          20
+Laimikis
+aaaaaaaaaa          100
+bbbbbbbdbb          100
