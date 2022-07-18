@@ -89,4 +89,5 @@ int main() {
     SkaiciuotiRezultatus(piesinio_duomenys);
     SpausdintiRezultatus(piesinio_duomenys);
 
+    return 0;
 }
